@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.brijesh.blog</groupId>
 	<artifactId>blog-app-apis</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0.2</version>
 	<name>blog-app-apis</name>
 	<description>Backend Api App for blogging</description>
 	<url/>
